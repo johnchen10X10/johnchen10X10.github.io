@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster|Righteous|Roboto');
+
+h1 {
+    font-family: Lobster;
+    color: #FF5964;
+}
+
+body {
+    font-family: Roboto;
+    font-size: 20;
+    background-color: #CDFFF9;
+    margin-top: 100px;
+}
+
+h2 {
+    font-family: Lobster;
+    font-size: 48;
+    color: red;
+}
+
+/**** resume ****/
+
+h4 {
+    color: #B80C09;
+}
+
+/*** left column ***/
+
+#left-col {
+    margin-top: 300;
+    width: 24em;
+    height: 100vh;
+}
+
+.surname {
+    color: red;
+}
+
+#background-pic {
+    border-radius: 60%;
+}
+
+/*** right column ***/
+
+#right-col {
+    margin-left: 24.5em;
+    background-color: #CDFFF9;
+
+}
+
+ul {
+    font-family: Righteous;
+    list-style: none;
+    color: #EFAAC4;
+}
+
+a:link,
+a:visited,
+a:active {
+    color: #FF299C;
+}
+
+a:hover {
+    color: red;
+}
+
+.center {
+    margin-left: 500;
+
+}
