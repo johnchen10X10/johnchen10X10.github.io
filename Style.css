@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster|Righteous|Roboto');
+
+h1 {
+    font-family: Lobster;
+    color: #326273;
+}
+
+body {
+    font-family: monospace;
+    font-size: 20;
+    background-color: #CDFFF9;
+}
+
+h2 {
+    color: red;
+}
+
+/**** resume ****/
+
+#resume-head h4 {
+    color: #E2C044;
+}
+
+/*** left column ***/
+
+#left-col {
+    background-color: white;
+    width: 24em;
+    height: 100vh;
+}
+
+.surname {
+    color: #284B63;
+}
+
+#profile-pic {
+    border-radius: 60%;
+}
+
+/*** right column ***/
+
+#right-col {
+    margin-left: 24.5em;
+    background-color: #CDFFF9;
+
+}
+
+/***** Education Styling ******/
+.section-head {
+    font-family: Righteous;
+    color: red;
+}
+
+#education h4 {
+    margin-left: 2em;
+}
+#education b {
+    font-family: Roboto;
+
+}
+
+/*** Acvtivities ***/
+#co-curricular h4 {
+    margin-left: 2em;
+}
+#co-curricular b {
+    font-family: Roboto;
+}
+
+/*** Seminars ***/
+#seminars h4 {
+    margin: 2em;
+}
+#seminars b {
+    font-family: Roboto;
+}
+
+#seminars-conducted h4 {
+    margin: 2em;
+}
+#seminars-conducted b {
+    font-family: Roboto;
+}
+
+
+
+/*** list ***/
+ul {
+    font-family: Roboto;
+    list-style: none;
+    color: #284B63;
+}
+
+/*** PB ***/
+#personal-background p {
+    margin-left: 2em;
+}
+/**** ref ***/
+#references h2 {
+    margin-top: 2em;
+}
+
+#references p {
+    padding: 0;
+    margin: 0;
+}
